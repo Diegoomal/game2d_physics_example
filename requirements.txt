@@ -1,0 +1,5 @@
+pdoc==12.*
+flake8==6.0.0
+pytest==7.1.*
+pygame==2.4.0
+pymunk==6.4.0
